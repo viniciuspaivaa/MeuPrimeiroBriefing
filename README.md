@@ -1,5 +1,10 @@
 # Grow Up Supplements
 
+**Logotipo:**
+<div align="center">
+    <img src="logo.png" width="300" alt="logo grow up">
+</div>
+
 ## Briefing Preliminar
 **Nome do cliente:** Marcos Vinicius<br>
 **Nome dos desenvolvedores:** Edgar, Vinicius
